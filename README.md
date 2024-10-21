@@ -29,5 +29,5 @@ The dataset contains the following info:
 10. Satisfaction rating: Customer satisfaction rating for the call (on a scale of 1-5, with 5 being the highest).
 
 *Cleaned to fix the AvgTalkDuration data type from time format to decimal.
-*Fixed Date format from datetime to date format
-*Duration (seconds) were converted to minutes for easy comparison
+*Fixed Date format from datetime to date format.
+*Duration (seconds) were converted to minutes for easy comparisons.
