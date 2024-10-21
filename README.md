@@ -4,7 +4,8 @@ Create a dashboard in Power BI for a call center manager working for a big telec
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Dashboard Screenshot](https://github.com/nyhadx/PwC_call_center/blob/main/Summary_Dashboard.png)
+![Dashboard Screenshot](https://github.com/nyhadx/PwC_call_center/blob/main/Agent_Dashboard.png)
 
 ## Introduction
 
