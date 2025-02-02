@@ -30,5 +30,33 @@ The dataset contains the following info:
 10. Satisfaction rating: Customer satisfaction rating for the call (on a scale of 1-5, with 5 being the highest).
 
 *Cleaned to fix the AvgTalkDuration data type from time format to decimal.
-*Fixed Date format from datetime to date format.
+*Fixed Date format from DateTime to date format.
 *Duration (seconds) were converted to minutes for easy comparisons.
+
+## Analysis
+### 1. Key Metrics:
+   
+•	Total Calls: 5000
+•	Abandoned Calls: 946 or 18.9% of calls were abandoned. Customers might be leaving due to longer wait times
+•	Average Answer Speed: 1.1 minutes
+•	Average Handling Time: 3.7 minutes
+•	Customer Satisfaction Score: 3.4 indicates generally positive but not outstanding
+
+### 2. Visuals and Insights
+
+•	Number of Calls by Satisfaction Rating: Most calls received a rating of 3 or 4. Focusing on low rates uncovers reasons behind it whether it be unresolved issues or long wait times
+•	Number of Calls by Topic: Most common calls were streaming and payment related. This could indicate a recurring problem or a need for better service
+•	Resolution Rate: With a 73% resolution rate, there might be room for improvements. High unresolved calls of 27%. Agents might need more training or resources for handling issues. 
+•	Call Volume: The call center operates from 9AM to 6PM, with peak volume around 11AM – 1PM. 
+•	Agent Performance: The workload distribution was relatively balanced as well, and individual performances
+
+### 3. Recommendations
+
+1.	Address the high abandonment rate by adding more agents during peak hours or introducing callbacks for abandoned calls
+2.	Improve resolution rate by investigating low-rated calls, and resources for addressing complex issues
+3.	Enhance customer satisfaction by replicating 5-star rating practices
+
+
+
+
+
