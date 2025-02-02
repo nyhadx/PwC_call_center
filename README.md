@@ -36,19 +36,19 @@ The dataset contains the following info:
 ## Analysis
 ### 1. Key Metrics:
    
-•	Total Calls: 5000
-•	Abandoned Calls: 946 or 18.9% of calls were abandoned. Customers might be leaving due to longer wait times
-•	Average Answer Speed: 1.1 minutes
-•	Average Handling Time: 3.7 minutes
-•	Customer Satisfaction Score: 3.4 indicates generally positive but not outstanding
+1.	Total Calls: 5000
+2.	Abandoned Calls: 946 or 18.9% of calls were abandoned. Customers might be leaving due to longer wait times
+3.	Average Answer Speed: 1.1 minutes
+4.	Average Handling Time: 3.7 minutes
+5.	Customer Satisfaction Score: 3.4 indicates generally positive but not outstanding
 
 ### 2. Visuals and Insights
 
-•	Number of Calls by Satisfaction Rating: Most calls received a rating of 3 or 4. Focusing on low rates uncovers reasons behind it whether it be unresolved issues or long wait times
-•	Number of Calls by Topic: Most common calls were streaming and payment related. This could indicate a recurring problem or a need for better service
-•	Resolution Rate: With a 73% resolution rate, there might be room for improvements. High unresolved calls of 27%. Agents might need more training or resources for handling issues. 
-•	Call Volume: The call center operates from 9AM to 6PM, with peak volume around 11AM – 1PM. 
-•	Agent Performance: The workload distribution was relatively balanced as well, and individual performances
+1.	Number of Calls by Satisfaction Rating: Most calls received a rating of 3 or 4. Focusing on low rates uncovers reasons behind it whether it be unresolved issues or long wait times
+2.	Number of Calls by Topic: Most common calls were streaming and payment related. This could indicate a recurring problem or a need for better service
+3.	Resolution Rate: With a 73% resolution rate, there might be room for improvements. High unresolved calls of 27%. Agents might need more training or resources for handling issues. 
+4.	Call Volume: The call center operates from 9AM to 6PM, with peak volume around 11AM – 1PM. 
+5.	Agent Performance: The workload distribution was relatively balanced as well, and individual performances
 
 ### 3. Recommendations
 
